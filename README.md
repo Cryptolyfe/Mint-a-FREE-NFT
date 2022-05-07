@@ -32,12 +32,12 @@
 
 # Scroll down to where you find the mint button...
 <!---![krbylogo](krby_punks/images/mintyournftin.png)--->
-
-
+<br>
 # ...and click!!!
+<br>
+<br>
 
-
-## Make sure you click "confirm" in the pop-up...
+## Make sure you click "confirm" in the pop-up window!
 
 ![krbylogo](krby_punks/images/metamask1.png)
 
