@@ -17,6 +17,7 @@
 
 # Now you are ready to mint!
 
+[Mint your FREE NFT here!](https://small-lake-3458.on.fleek.co/)
 
 ![krbylogo](krby_punks/images/scrolldown.png)
 
