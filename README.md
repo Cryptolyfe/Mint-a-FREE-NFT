@@ -31,7 +31,7 @@
 
 
 # Scroll down to where you find the mint button...
-![krbylogo](krby_punks/images/mintyournftin.png)
+<!---![krbylogo](krby_punks/images/mintyournftin.png)--->
 
 
 # ...and click!!!
