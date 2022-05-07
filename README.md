@@ -7,3 +7,11 @@
 ## Before you can mint on Rinkeby, you will need to grab yourself some free test ETH!
 ### Click the link below and open the link in another tab! 
 [Get your free test ETH here](https://faucets.chain.link/rinkeby)
+
+
+![krbylogo](krby_punks/images/testlink.png)
+![krbylogo](krby_punks/images/requestlink.png)
+![krbylogo](krby_punks/images/waiting.png)
+![krbylogo](krby_punks/images/requestcomplete.png)
+
+# Now you are ready to mint!
