@@ -36,10 +36,11 @@
 
 # ...and click!!!
 
+
+## Make sure you click "confirm" in the pop-up...
+
 ![krbylogo](krby_punks/images/metamask1.png)
 
-
-## Make sure you click "confirm"
 
 
 ## Once the transaction is compelete click "View your NFT on Open Sea"
@@ -48,6 +49,8 @@
 ![krbylogo](krby_punks/images/viewonopensea2.png)
 
 
+
+<br>
 ![krbylogo](krby_punks/images/punkonopensea.png)
 
 
