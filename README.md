@@ -49,8 +49,8 @@
 ![krbylogo](krby_punks/images/viewonopensea2.png)
 
 
-
 <br>
+
 ![krbylogo](krby_punks/images/punkonopensea.png)
 
 
