@@ -31,10 +31,14 @@
 ## ...and click!!!
 
 ![krbylogo](krby_punks/images/metamask1.png)
-## Make sure you clikc "confirm"
+
+## Make sure you click "confirm"
+
 
 ## Once the transaction is compelete click "View your NFT on Open Sea"
+
 ![krbylogo](krby_punks/images/opensea.png)
+
 
 ![krbylogo](krby_punks/images/punkonopensea.png)
 
