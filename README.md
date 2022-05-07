@@ -28,16 +28,18 @@
 ## Scroll down to where you find the mint button...
 ![krbylogo](krby_punks/images/mintyournftin.png)
 
-## ...and click!!!
+# ...and click!!!
 
 ![krbylogo](krby_punks/images/metamask1.png)
+
 
 ## Make sure you click "confirm"
 
 
 ## Once the transaction is compelete click "View your NFT on Open Sea"
 
-![krbylogo](krby_punks/images/opensea.png)
+
+![krbylogo](krby_punks/images/viewonopensea2.png)
 
 
 ![krbylogo](krby_punks/images/punkonopensea.png)
