@@ -16,7 +16,7 @@
 
 
 # Now you are ready to mint!
-
+## Open the link below in another tab...
 
 [Mint your FREE NFT here!](https://small-lake-3458.on.fleek.co/)
 
