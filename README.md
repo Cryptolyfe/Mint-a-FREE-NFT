@@ -15,3 +15,13 @@
 ![krbylogo](krby_punks/images/requestcomplete.png)
 
 # Now you are ready to mint!
+
+![krbylogo](krby_punks/images/scrolldown.png)
+
+## Make sure you are on the rinkeby network in Metamask...
+
+![krbylogo](krby_punks/images/rinkebytestnetwork.png)
+![krbylogo](krby_punks/images/networks.png)
+
+
+
