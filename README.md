@@ -52,6 +52,8 @@
 
 <br>
 
+# Your NFT should be veiwable shortly on Open Sea!
+
 ![krbylogo](krby_punks/images/punkonopensea.png)
 
 
