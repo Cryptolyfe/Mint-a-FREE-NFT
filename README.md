@@ -21,12 +21,15 @@
 ![krbylogo](krby_punks/images/scrolldown.png)
 
 
-## Make sure you are on the rinkeby network in Metamask...
+# Make sure you are on the rinkeby network in Metamask...
+
 
 ![krbylogo](krby_punks/images/networks.png)
 
-## Scroll down to where you find the mint button...
+
+# Scroll down to where you find the mint button...
 ![krbylogo](krby_punks/images/mintyournftin.png)
+
 
 # ...and click!!!
 
