@@ -47,11 +47,11 @@
 
 ## ...and click!!!
 
+
+![krbylogo](krby_punks/images/metamask1.png)
 <br>
 
 ## Make sure you click "confirm" in the pop-up window!
-
-![krbylogo](krby_punks/images/metamask1.png)
 
 <br>
 
