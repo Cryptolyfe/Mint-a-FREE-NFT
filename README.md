@@ -19,7 +19,7 @@
 
 <br>
 
-# Now you are ready to mint!
+## Now you are ready to mint!
 ## Open the link below in another tab...
 
 <br>
@@ -40,12 +40,12 @@
 
 <br>
 
-# Scroll down to where you find the mint button...
+## Scroll down to where you find the mint button...
 <!---![krbylogo](krby_punks/images/mintyournftin.png)--->
 
 <br>
 
-# ...and click!!!
+## ...and click!!!
 
 <br>
 
@@ -66,7 +66,7 @@
 
 <br>
 
-# Your NFT should be veiwable shortly on Open Sea!
+## Your NFT should be veiwable shortly on Open Sea!
 
 <br>
 
