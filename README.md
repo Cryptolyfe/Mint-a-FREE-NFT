@@ -29,7 +29,7 @@
 
 <br>
 
-# Make sure you are on the rinkeby network in Metamask...
+## Make sure you are on the rinkeby network in Metamask...
 ## (If network isn't visible click on show/hide test networks at the top)
 <br>
 
