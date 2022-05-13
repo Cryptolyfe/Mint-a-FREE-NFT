@@ -55,11 +55,13 @@
 # Your NFT should be veiwable shortly on Open Sea!
 
 ![krbylogo](krby_punks/images/punkonopensea.png)
+<br>
 
+# Now you are ready!
 
 [CLICK HERE TO MINT YOUR FREE NFT!](small-lake-3458.on.fleek.co/)
 
-
+<br>
 
 
 
