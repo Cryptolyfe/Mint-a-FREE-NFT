@@ -4,6 +4,7 @@
 
 ![krbylogo](krby_punks/images/mainpage.png)
 
+<br>
 
 ## Before you can mint on Rinkeby, you will need to grab yourself some free test ETH!
 ### Click the link below and open the link in another tab! 
@@ -20,7 +21,9 @@
 
 # Now you are ready to mint!
 ## Open the link below in another tab...
+
 <br>
+
 [Mint your FREE NFT here!](https://small-lake-3458.on.fleek.co/)
 
 <br>
@@ -65,11 +68,15 @@
 
 # Your NFT should be veiwable shortly on Open Sea!
 
+<br>
+
 ![krbylogo](krby_punks/images/punkonopensea.png)
 
 <br>
 
 # Now you are ready!
+
+<br>
 
 [CLICK HERE TO MINT YOUR FREE NFT!](small-lake-3458.on.fleek.co/)
 
