@@ -74,10 +74,6 @@
 
 <br>
 
-# Now you are ready!
-
-<br>
-
 [CLICK HERE TO MINT YOUR FREE NFT!](small-lake-3458.on.fleek.co/)
 
 <br>
